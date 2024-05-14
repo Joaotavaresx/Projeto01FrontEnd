@@ -1,5 +1,9 @@
+
+Pré-requisitos
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Git, Node.js. Além disto é bom ter um editor para trabalhar com o código como VSCode
+
 # Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+$ git clone <https://github.com/joaotavaresx/Projeto01FrontEnd>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd nlw1
